@@ -12,8 +12,8 @@ export function Navbar () {
             <Link to="/page2">
                 <button>Page2</button>
             </Link>
-            <Link to="/page3">
-                <button>Page3</button>
+            <Link to="/LeaderboardPage">
+                <button>Leaderboard</button>
             </Link>
         </>
     )
