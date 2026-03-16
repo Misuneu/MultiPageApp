@@ -4,6 +4,8 @@ import { useState, useEffect } from "react";
 type Score = {
   name: string
   score: number
+  mode: string
+  created_at: string
 }
 
 export function LeaderboardPage() {
